@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div{
+    width: 80%;
+    margin: 0 auto;
+    text-align: justify;
+    word-wrap: none;
+    overflow: hidden;
+    text-overflow: hidden;
+word-wrap: break-word;
+word-break: break-all;
+vertical-align: baseline;
+}
